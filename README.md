@@ -42,7 +42,7 @@ O presente capítulo contempla o embasamento técnico do projeto, explorando as 
 
 Reconhecimento de voz é a capacidade de um dispositivo eletrônico de conseguir "entender" a fala humana. O dispositivo recebe como entrada um sinal analógico (voz) através de um microfone, processa e por fim interpreta o sinal através de um software de reconhecimento de voz que será o responsável por atribuir algum significado digital ao som recebido (OLIVEIRA, 2019).
 
-![https://github.com/felipemessi/tcc-felipegbraga/blob/master/Untitled.png](https://github.com/felipemessi/tcc-felipegbraga/blob/master/Imagens/fluxo-informacao.png)
+![https://github.com/felipemessi/TG-Banco-de-Dados/blob/master/Imagens/fluxo_voz.png](https://github.com/felipemessi/TG-Banco-de-Dados/blob/master/Imagens/fluxo_voz.png)
 
 O desenvolvimento contínuo da tecnologia de reconhecimento de voz tem permitido o desenvolvimento de aplicações principalmente para as áreas de saúde, marketing, segurança e uso cotidiano. E é fácil identificar uma boa aplicação para essa tecnologia, basta pensar em situações em que você tem as mão, olhos ou mobilidade limitada (OLIVEIRA, 2019). 
 
