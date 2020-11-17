@@ -42,7 +42,7 @@ O presente capítulo contempla o embasamento técnico do projeto, explorando as 
 
 Reconhecimento de voz é a capacidade de um dispositivo eletrônico de conseguir "entender" a fala humana. O dispositivo recebe como entrada um sinal analógico (voz) através de um microfone, processa e por fim interpreta o sinal através de um software de reconhecimento de voz que será o responsável por atribuir algum significado digital ao som recebido (OLIVEIRA, 2019).
 
-![https://github.com/felipemessi/tcc-felipegbraga/blob/master/Untitled.png](https://github.com/felipemessi/tcc-felipegbraga/blob/master/Untitled.png)
+![https://github.com/felipemessi/tcc-felipegbraga/blob/master/Untitled.png](https://github.com/felipemessi/tcc-felipegbraga/blob/master/Imagens/fluxo-informacao.png)
 
 O desenvolvimento contínuo da tecnologia de reconhecimento de voz tem permitido o desenvolvimento de aplicações principalmente para as áreas de saúde, marketing, segurança e uso cotidiano. E é fácil identificar uma boa aplicação para essa tecnologia, basta pensar em situações em que você tem as mão, olhos ou mobilidade limitada (OLIVEIRA, 2019). 
 
@@ -52,7 +52,7 @@ Porém, é necessário reconhecer que existem algumas limitações que precisam 
 
 Desenvolvida pela Mozilla e pelo Google a Web Speech API é uma API JavaScript que permite incorporar o processamento de dados de voz principalmente em aplicações Web. No presente estudo será utilizada a funcionalidade de Speech-to-Text apesar da API possuir capacidade de operar nos dois sentidos (voz para texto e texto para voz).  A Web Speech API tem uma variedade de eventos bem completa e documentação amigável e permite um nível de configuração de confiança, erros e controle basta profundo (GOOGLE, 2020).
 
-![](https://github.com/felipemessi/tcc-felipegbraga/blob/master/Untitled%20(1).png)
+![](https://github.com/felipemessi/tcc-felipegbraga/blob/master/Imagens/voz-texto.png.png)
 
 A API Web Speech foi escolhida para a utilização nesse projeto pois ela apresenta diversas conveniências, bem como, ser gratuita (até 50 minutos por mês), utilizar a linguagem de programação Javascript que é a mesma que será utilizada em todo o projeto, ter suporte ao idioma Português Brasileiro e ter o suporte do Google e acesso a ampla comunidade técnica acerca dessa tecnologia (GOOGLE, 2020).
 
@@ -60,11 +60,11 @@ A API Web Speech foi escolhida para a utilização nesse projeto pois ela aprese
 
 O Visual Studio Code (VS Code) é um editor de código desenvolvido pela Microsoft, gratuito e *open source* e que inclui diversas funcionalidades, dentre elas a possibilidade de debugging, intelligent code completion, code refactoring e integração com o Git. Além disso o VS Code tem suporte para inúmeras linguagens de programação, bem como Java, C, C++. C#, Javascript, Python, etc (MICROSOFT, 2020).
 
-![](https://github.com/felipemessi/tcc-felipegbraga/blob/master/Untitled%20(2).png)
+![](https://github.com/felipemessi/tcc-felipegbraga/blob/master/Imagens/vs-code-capacities.png)
 
 Extensões do VS Code são uma maneira de você adicionar alguma funcionalidade nova ao software, ampliando suas capacidades. Uma extensão pode acrescentar um visual diferente, suporte à uma linguagem, ou alguma maneira diferente de executar um comando. Para criar uma extensão para o VS Code é necessário utilizar a API do VS Code (MICROSOFT, 2020).
 
-![](https://github.com/felipemessi/tcc-felipegbraga/blob/master/Untitled%20(3).png)
+![](https://github.com/felipemessi/tcc-felipegbraga/blob/master/Imagens/vs-code-home.png)
 
 # Referências
 
